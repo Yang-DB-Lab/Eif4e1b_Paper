@@ -6,6 +6,6 @@ Scripts related to Next-generation data analysis, especially classic bulk sequen
 
 Script for OCT4 IF cleaning
 
-* Short MATLAB script to remove non-specific OCT4 signals from early embryo IF.
+* A short MATLAB script to remove non-specific OCT4 signals from early embryo IF.
 
 For problems, contact guanghui.yang@nih.gov

@@ -2,7 +2,7 @@
 disp('Make sure this fold contains the DAPI file and OCT4 IF file with same base name')
 disp('The files should be named like this: sample_DAPI.tif and sample_OCT4.tif')
 prompt = "What is the sample name? ";
-sample_name = input(prompt)
+sample_name = input(prompt, "s")
 
 %%%% USE DAPI as mask
 DAPI = imread(sample_name + "_DAPI.tif");

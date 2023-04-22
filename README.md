@@ -1,7 +1,7 @@
 # Scripts related to NGS data analysis and OCT4 IF processing
 Scripts related to scNMT-seq read alignment:
 
-* seRNA-Seq: stores scripts related to single embryo RNA-Seq data analysis(Smart-seq part of seNMT-seq). Also used for RIP-seq and Ribo-seq (after minor modifications).
+* seRNA-Seq: stores scripts related to single embryo RNA-Seq data analysis(Smart-seq part of seNMT-seq). Also used for RIP-seq and Ribo-seq (with minor modifications).
 * scNMT_DNAseq_Part: scripts to align reads of seNMT-seq DNA-seq part. Hisat-3n is used for alignment.
 
 Script for OCT4 IF cleaning:

@@ -10,4 +10,4 @@ Script for OCT4 IF cleaning:
 
 Helper fold stores some scripts to help with real analysis.
 
-For problems, contact guanghui.yang@nih.gov
+For any problems, please contact ~~guanghui.yang@nih.gov~~ gyang35@jh.edu
